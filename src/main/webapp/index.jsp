@@ -19,8 +19,15 @@
 
             <input type="submit" value="Lab1">
         </form>
-        
+
+
+        <form action="lab2.jsp">    
+            <a href="lab2.jsp"></a>
+            <input type="submit" value="Lab2">
+        </form>
+
         <p><a href="lab1.jsp">Alternative variant</a></p>
+        <p><a href="lab2.jsp">Alternative variant 2</a></p>
 
     </body>
 </html>
