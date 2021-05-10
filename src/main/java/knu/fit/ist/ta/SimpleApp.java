@@ -10,7 +10,21 @@ package knu.fit.ist.ta;
  * @author Jovi
  */
 public class SimpleApp {
+
+    /*    public static void main(String[] args) {
     
+    MyFirstJavaClass mFJC = new MyFirstJavaClass(5);
+    
+    System.out.println(mFJC.toString());
+    
+    MyFirstJavaClass.setMyStaticing(10);
+    
+    
+    System.out.println(MyFirstJavaClass.toStringStatic());
+    
+    
+    
+    }*/
     
     /*public static void main(String[] args) {
     /* MyFirstJavaClass mFJC = new MyFirstJavaClass(5);
@@ -20,7 +34,7 @@ public class SimpleApp {
     MyFirstJavaClass.setMyStaticing(10);
     
     System.out.println(MyFirstJavaClass.toStringStatic()); */
-    /*
+ /*
     
     float f1 = 2.035678f;
     
@@ -31,5 +45,4 @@ public class SimpleApp {
     System.out.println(0.01 * Math.round(f1 * 100));
     
 }*/
-    
 }
