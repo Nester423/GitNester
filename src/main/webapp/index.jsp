@@ -21,8 +21,7 @@
         </form>
 
 
-        <form action="lab2.jsp">    
-            <a href="lab2.jsp"></a>
+        <form action="lab2form.jsp">    
             <input type="submit" value="Lab2">
         </form>
 

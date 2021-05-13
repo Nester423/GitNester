@@ -14,6 +14,7 @@
     <body>
         <h1>This is my lab2!</h1>
         
+        <p><%=request.getAttribute("result")%></p>
         
         <a href="index.jsp">Home</a>
     </body>
