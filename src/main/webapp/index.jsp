@@ -20,6 +20,7 @@
             <input type="submit" value="Lab1">
         </form>
 
+        
 
         <form action="lab2.jsp">    
             <a href="lab2.jsp"></a>
