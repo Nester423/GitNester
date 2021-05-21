@@ -21,7 +21,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 public class Lab2Servlet extends HttpServlet {
     
     @Autowired 
-    Lab2View lab12view;
+    Laba2View lab2view;
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
