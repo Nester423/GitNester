@@ -1,7 +1,7 @@
 <%-- 
     Document   : lab2
     Created on : 09.04.2021, 14:11:39
-    Author     : 19sam
+    Author     : Jovi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

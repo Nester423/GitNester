@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  *
- * @author 19sam
+ * @author Jovi
  */
 public class Lab4Tests {
     StringProcessing sp = new StringProcessing();

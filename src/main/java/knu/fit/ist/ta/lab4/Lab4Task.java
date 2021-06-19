@@ -11,7 +11,7 @@ import java.util.regex.Matcher;
 
 /**
  *
- * @author 19sam
+ * @author Jovi
  */
 public class Lab4Task {
        

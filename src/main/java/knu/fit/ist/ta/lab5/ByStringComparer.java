@@ -9,7 +9,7 @@ import java.util.Comparator;
 
 /**
  *
- * @author Danya
+ * @author Jovi
  */
 public class ByStringComparer implements Comparator<Model> {
     public int compare(Model a, Model b){

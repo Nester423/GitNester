@@ -2,7 +2,7 @@
 <%-- 
     Document   : lab4form
     Created on : 23.04.2021, 9:12:53
-    Author     : 19sam
+    Author     : Jovi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -7,7 +7,7 @@ package knu.fit.ist.ta.lab5;
 import java.util.Comparator;
 /**
  *
- * @author Danya
+ * @author Jovi
  */
 public class ByLongComparer implements Comparator<Model> {
     public int compare(Model a, Model b){

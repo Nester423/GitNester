@@ -12,7 +12,7 @@ import java.util.LinkedList;
 import java.util.Random;
 /**
  *
- * @author Danya
+ * @author Jovi
  */
 public class Part2 {
     

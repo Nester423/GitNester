@@ -1,7 +1,7 @@
 <%-- 
     Document   : lab5form
     Created on : 15 мая 2021 г., 13:09:18
-    Author     : Andrey
+    Author     : Jovi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -7,7 +7,7 @@ package knu.fit.ist.ta.lab3;
 
 /**
  *
- * @author 19sam
+ * @author Jovi
  */
 public class Lab3Task {
     

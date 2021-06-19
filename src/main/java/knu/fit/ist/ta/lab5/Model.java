@@ -8,7 +8,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Danya
+ * @author Jovi
  */
 public class Model {
     private String _stringField;

@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author 19sam
+ * @author Jovi
  */
 public class StringMatching {
     

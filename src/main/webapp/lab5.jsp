@@ -1,7 +1,7 @@
 <%-- 
     Document   : lab5
     Created on : 23 мая 2021 г., 18:14:27
-    Author     : Danya
+    Author     : Jovi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

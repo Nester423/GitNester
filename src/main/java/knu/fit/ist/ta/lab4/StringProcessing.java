@@ -18,7 +18,7 @@ import java.util.Set;
 
 /**
  *
- * @author 19sam
+ * @author Jovi
  */
 public class StringProcessing {
     

@@ -15,7 +15,7 @@ import java.util.Map.Entry;
 
 /**
  *
- * @author Danya
+ * @author Jovi
  */
 public class Part1 {
     public static String text;
