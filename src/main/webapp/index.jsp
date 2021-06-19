@@ -27,7 +27,6 @@
         </form>
 
         <p><a href="lab1.jsp">Alternative variant</a></p>
-        <p><a href="lab2.jsp">Alternative variant 2</a></p>
 
     </body>
 </html>

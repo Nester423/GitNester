@@ -1,7 +1,7 @@
 <%-- 
     Document   : lab2
-    Created on : 10 мая 2021 г., 16:35:09
-    Author     : Jovi
+    Created on : 09.04.2021, 14:11:39
+    Author     : 19sam
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,10 +12,23 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>This is my lab2!</h1>
-        
+        <h1>Лабораторна робота 2</h1>
+       
+        <h2>Знайти корінь рівняння sqrt(2x)/(-3x^2 + 4x + 1)</h2>
+        <h3>Корінь рівняння: </h3>
+    
         <p><%=request.getAttribute("result")%></p>
         
-        <a href="index.jsp">Home</a>
+        <div>
+            <form action="lab2form.jsp">
+                <input type="submit" value="New x">
+            </form>
+        </div>
+        
+        <div>
+            <form action="index.jsp">
+                <input type="submit" value="HOME PAGE">
+            </form>
+        </div>
     </body>
 </html>

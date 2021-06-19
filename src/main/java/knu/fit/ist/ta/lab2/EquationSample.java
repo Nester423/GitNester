@@ -9,21 +9,16 @@ import org.springframework.stereotype.Component;
 
 /**
  *
- * @author Jovi
+ * @author 19sam
  */
 
-
-
 @Component
-public class Calculate {
-   
-    public static float lab2equation(float x){
+public class EquationSample {
     
-    return (float) ((Math.sqrt(2*x))/(1 + 4*x -3*Math.pow(x, 2))) ;
-    }  
-       
-    public float solve(float x) {
+    public int solve(int x) {
         
-        return (float) ((Math.sqrt(2*x))/(1 + 4*x -3*Math.pow(x, 2))) ;
+        if(x==0) {return Integer.MAX_VALUE;}
+        return 10/x;
     }
+    
 }
