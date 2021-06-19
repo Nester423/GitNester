@@ -38,6 +38,10 @@
             <input type="submit" value="Lab5">
         </form>
         
+        <form action="lab6form.jsp">    
+            <input type="submit" value="Lab6">
+        </form>
+        
 
         <p><a href="lab1.jsp">Alternative variant lab1</a></p>
 
