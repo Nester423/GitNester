@@ -34,7 +34,7 @@
             <input type="submit" value="Lab4">
         </form>
         
-        <form action="lab5.jsp">    
+        <form action="lab5form.jsp">    
             <input type="submit" value="Lab5">
         </form>
         

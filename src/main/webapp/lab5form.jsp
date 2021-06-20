@@ -12,17 +12,15 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <div>
-            <form action="./lab5" method="post">
-                <h3>Enter the word you want to find in the text</h3>
-                <input type="text" name="word" placeholder="enter a word"/>
-                
-                <h3>Enter the desired number of objects with fields of type string and int</h3>
-                <input type="text" name="amount" placeholder="enter a number"/>
-                
-                
-            <input type="submit" value="Ok"/>
-            </form>
-        </div>
+        <h1>Lab 5</h1>
+        <form method="post" action="./lab5">
+                <p>Скільки елементів генерувати в масиві</p>
+                <input type="text" name="task1" placeholder="Скільки елементів"/>
+                <p>Яке число шукати в згенерованому масиві</p>
+                <input type="text" name="task2" placeholder="Яке число шукати"/>
+                <p>Яку літеру шукати в згенерованому масиві</p>
+                <input type="text" name="task3" placeholder="Яку літеру шукати"/>
+                <input type="submit" value="Ok"/>
+        </form>
     </body>
 </html>
