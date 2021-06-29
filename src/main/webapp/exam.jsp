@@ -13,7 +13,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>f(x)= 9/(2x-1)</h1>
+        <h1>f(x)= 10/(2x-2)</h1>
         <form action="./exam" method="post" class="form-inline">
             <label for="x"><b>Enter x:</b></label>
             <div class="input-group">
@@ -22,7 +22,7 @@
             </div>
             <p class="mt-3 mb-0"><b></b><%=request.getAttribute("result")%></p>
         </form>
-        <%! Results fr = new Results(75); %>
+        <%! Results fr = new Results(72); %>
         <p>Args: <%= fr.GetArgs()%> </p>
         <p>Results:<%= fr.Calculate() %></p>
     </body>

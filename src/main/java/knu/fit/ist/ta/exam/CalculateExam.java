@@ -13,8 +13,8 @@ public class CalculateExam {
     
     public static double Calculate(double x)
     {
-        double numerator = ((double)9);
-        double denominator = (2 *(double) x-1);
+        double numerator = ((double)10);
+        double denominator = (2 *(double) x+2);
         double result = (double) (numerator / denominator);
         return result;
     }
