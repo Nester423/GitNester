@@ -13,7 +13,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>f(x)= 10/(2x-2)</h1>
+        <h1>f(x)= 10/(2x+2)</h1>
         <form action="./exam" method="post" class="form-inline">
             <label for="x"><b>Enter x:</b></label>
             <div class="input-group">
